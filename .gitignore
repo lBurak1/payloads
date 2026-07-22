@@ -1,0 +1,20 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editör / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Geçici / test çıktıları
+*.log
+*.tmp
+/test-output/
+/scratch/
+
+# Ortam dosyaları
+.env
+*.local
